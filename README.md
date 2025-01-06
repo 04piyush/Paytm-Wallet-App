@@ -1,3 +1,10 @@
+Paytm Wallet App that enables users to perform a variety of financial transactions. Users can easily sign up and sign in to
+their accounts. The app allows users to add funds to their wallet by linking their HDFC or Axis Bank accounts (on-ramp functionality) and
+transferring money from these bank accounts to their wallet.
+In addition to receiving funds, users can also transfer money to other users, using either their phone number or name as the recipient
+identifier. The app also provides a transaction history feature, where users can view their on-ramp transactions from the linked bank
+accounts to the wallet, offering a seamless tracking experience.
+
 - Clone the repo
 
 ```jsx
