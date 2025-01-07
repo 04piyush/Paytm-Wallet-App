@@ -12,7 +12,7 @@ accounts to the wallet, offering a seamless tracking experience.
 - Clone the repo
 
 ```jsx
-git clone https://github.com/04piyush/Paytm-Wallet-App.git
+git clone https://github.com/04piyush/SmartWallet.git
 ```
 
 - npm install
