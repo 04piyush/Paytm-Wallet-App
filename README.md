@@ -4,10 +4,10 @@ transferring money from these bank accounts to their wallet.
 In addition to receiving funds, users can also transfer money to other users, using either their phone number or name as the recipient
 identifier. The app also provides a transaction history feature, where users can view their on-ramp transactions from the linked bank
 accounts to the wallet, offering a seamless tracking experience.
-![Signup-Signin 2025-01-06 124631](https://github.com/user-attachments/assets/b96be171-5336-4725-9366-3356e0dc38e5)
-![Transfer 2025-01-06 124915](https://github.com/user-attachments/assets/4d8e4cca-bdd7-4dfa-aa8e-e1015b1e7cbf)
-![Transactions 2025-01-06 125014](https://github.com/user-attachments/assets/f419f819-ab52-4cf2-91d5-6284a3eec0f6)
-![p2p Transfer 2025-01-06 125112](https://github.com/user-attachments/assets/fc27996d-a5eb-48dc-8d4e-b7570decdd9b)
+![Signup-Signin 2025-01-06 124631](https://github.com/user-attachments/assets/d98dc27a-7e66-447c-b25b-c2a87d8491ba)
+![Transfer 2025-01-06 124915](https://github.com/user-attachments/assets/c347069d-0af3-40fe-be0b-a91a769bab18)
+![Transactions 2025-01-06 125014](https://github.com/user-attachments/assets/ad6aff73-2ac3-4cf7-a5e3-0ac272326b44)
+![p2p Transfer 2025-01-06 125112](https://github.com/user-attachments/assets/947515a8-c8bd-4c08-8b80-8d451ba64f18)
 
 - Clone the repo
 
